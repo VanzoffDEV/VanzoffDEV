@@ -31,9 +31,10 @@ Hoje, sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e co-fun
 ---
 
 ### 📂 Projetos em Destaque
-- [**Meu Portfólio Oficial**](https://vanzoffdev.github.io/My-Portfolio/) - Vitrine das minhas soluções web.
-- [**Nosso Site (Agência)**](https://github.com/VanzoffDEV/Nosso-Site) - Projeto institucional focado em conversão.
-- [**Lógica em C++**](https://github.com/VanzoffDEV/My-Projects-in-C-) - Algoritmos e performance.
+- [**Vanzoff Climatização**](https://github.com/VanzoffDEV/Vanzoff-Climatizacao) - Landing Page profissional focada em conversão para serviços de refrigeração.
+- [**Meu Portfólio Oficial**](https://vanzoffdev.github.io/My-Portfolio/) - Vitrine das minhas soluções web e trajetória.
+- [**Nosso Site (Agência)**](https://github.com/VanzoffDEV/Nosso-Site) - Projeto institucional da Agência Vanzoff.
+- [**Lógica em C++**](https://github.com/VanzoffDEV/My-Projects-in-C-) - Algoritmos e performance técnica.
 
 ---
 
