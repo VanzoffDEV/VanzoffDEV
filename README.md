@@ -1,7 +1,10 @@
 # Olá, eu sou o Abelardo Vanzoff! 👋
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanzoffDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanzoffDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanzoffDEV&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
 ### 🚀 Sobre Mim
