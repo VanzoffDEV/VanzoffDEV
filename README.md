@@ -6,9 +6,9 @@
 
 <br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VanzoffDEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VanzoffDEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanzoffDEV&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanzoffDEV&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
