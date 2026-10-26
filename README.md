@@ -65,7 +65,7 @@ Plataforma Full Stack desenvolvida para gerenciamento de presença digital, blog
 ---
 
 ## ❄️ Projeto Climatização
-🔗 agendamentos-ui.vercel.app
+🔗 https://agendamentos-ui.vercel.app
 
 Projeto interdisciplinar do curso ADS.
 
