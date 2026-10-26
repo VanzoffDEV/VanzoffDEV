@@ -65,7 +65,7 @@ Plataforma Full Stack desenvolvida para gerenciamento de presença digital, blog
 ---
 
 ## ❄️ Projeto Climatização
-🔗 https://github.com/VanzoffDEV/Vanzoff-Climatizacao
+🔗agendamentos-ui.vercel.app
 
 Projeto interdisciplinar do curso ADS.
 
